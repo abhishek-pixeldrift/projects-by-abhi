@@ -4,7 +4,7 @@ A collection of mini-projects and learning attempts.
 
 ## Projects
 
-### Hello.py
+### - Hello.py
 
 It's my first project on GitHub by using Python!
 
