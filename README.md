@@ -17,8 +17,3 @@ It's my first project on GitHub by using Python!
    python Hello.py
    ```
 
-#### Example Output
-
-```
-Hello, GitHub!
-```
